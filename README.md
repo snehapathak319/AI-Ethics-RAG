@@ -37,7 +37,6 @@ It answers questions based on uploaded documents related to:
 ## Output
 - Conversational QA system
 - Context-based answers
-  ## author
-  sneha
+  
 ## Author
 Your Name
